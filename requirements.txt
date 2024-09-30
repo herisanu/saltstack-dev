@@ -1,0 +1,4 @@
+jsonschema
+jenkins
+yamlordereddictloader
+debugpy
